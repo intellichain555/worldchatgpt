@@ -35,7 +35,7 @@ const AboutMenu = () => {
                   ns='about'
                   components={[
                     <a
-                      href='https://github.com/ztjhz/BetterChatGPT'
+                      href='https://github.com/intellichain555/worldchatgpt'
                       target='_blank'
                       className='link'
                     />,
@@ -87,7 +87,7 @@ const AboutMenu = () => {
                     ns='about'
                     components={[
                       <a
-                        href='https://github.com/ztjhz/BetterChatGPT'
+                        href='https://github.com/intellichain555/worldchatgpt'
                         target='_blank'
                         className='link'
                       />,

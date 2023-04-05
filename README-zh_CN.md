@@ -7,30 +7,30 @@
 <h4 align="center"><b>免费、无限、强大、智能、迷人</b></h4>
 
 <p align="center">
-<a href="https://github.com/ztjhz/BetterChatGPT/blob/main/LICENSE" target="_blank">
+<a href="https://github.com/intellichain555/worldchatgpt/blob/main/LICENSE" target="_blank">
 <img src="https://img.shields.io/github/license/ztjhz/BetterChatGPT?style=flat-square" alt="licence" />
 </a>
-<a href="https://github.com/ztjhz/BetterChatGPT/fork" target="_blank">
+<a href="https://github.com/intellichain555/worldchatgpt/fork" target="_blank">
 <img src="https://img.shields.io/github/forks/ztjhz/BetterChatGPT?style=flat-square" alt="forks"/>
 </a>
-<a href="https://github.com/ztjhz/BetterChatGPT/stargazers" target="_blank">
+<a href="https://github.com/intellichain555/worldchatgpt/stargazers" target="_blank">
 <img src="https://img.shields.io/github/stars/ztjhz/BetterChatGPT?style=flat-square" alt="stars"/>
 </a>
-<a href="https://github.com/ztjhz/BetterChatGPT/issues" target="_blank">
+<a href="https://github.com/intellichain555/worldchatgpt/issues" target="_blank">
 <img src="https://img.shields.io/github/issues/ztjhz/BetterChatGPT?style=flat-square" alt="issues"/>
 </a>
-<a href="https://github.com/ztjhz/BetterChatGPT/pulls" target="_blank">
+<a href="https://github.com/intellichain555/worldchatgpt/pulls" target="_blank">
 <img src="https://img.shields.io/github/issues-pr/ztjhz/BetterChatGPT?style=flat-square" alt="pull-requests"/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=👋看看这个惊人的存储库%20https://github.com/ztjhz/BetterChatGPT，由%20@nikushii_%20创建。"><img src="https://img.shields.io/twitter/url?label=%E5%88%86%E4%BA%AB%E5%88%B0%E6%8E%A8%E7%89%B9&style=social&url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT"></a>
+<a href="https://twitter.com/intent/tweet?text=👋看看这个惊人的存储库%20https://github.com/intellichain555/worldchatgpt，由%20@nikushii_%20创建。"><img src="https://img.shields.io/twitter/url?label=%E5%88%86%E4%BA%AB%E5%88%B0%E6%8E%A8%E7%89%B9&style=social&url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT"></a>
 </p>
 
 <p align="center">
     <a href="https://bettergpt.chat">进入网站</a>
     ·
-    <a href="https://github.com/ztjhz/BetterChatGPT/issues/new/choose">反馈问题</a>
+    <a href="https://github.com/intellichain555/worldchatgpt/issues/new/choose">反馈问题</a>
     ·
-    <a href="https://github.com/ztjhz/BetterChatGPT/issues/new/choose">请求功能</a>
+    <a href="https://github.com/intellichain555/worldchatgpt/issues/new/choose">请求功能</a>
 </p>
 <p align="center"><i>您喜欢使用 Better ChatGPT 吗？请给它一个星星以示支持！🌟</i></p>
 
@@ -76,7 +76,7 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 ## 桌面应用
 
-在此下载桌面应用程序：<https://github.com/ztjhz/BetterChatGPT/releases/>
+在此下载桌面应用程序：<https://github.com/intellichain555/worldchatgpt/releases/>
 
 - 无限本地存储
 - 本地运行（即使无法访问 Better ChatGPT 网站也可以使用）
@@ -96,8 +96,8 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 ### 步骤
 
 1. 创建一个 GitHub 账户（如果您还没有账户）。
-1. 给此[存储库](https://github.com/ztjhz/BetterChatGPT) 一个星星 ⭐️
-1. Fork 此[存储库](https://github.com/ztjhz/BetterChatGPT)
+1. 给此[存储库](https://github.com/intellichain555/worldchatgpt) 一个星星 ⭐️
+1. Fork 此[存储库](https://github.com/intellichain555/worldchatgpt)
 1. 在 fork 之后的存储库中点击 `Settings` 选项卡
    ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
 1. 在左侧边栏中，单击 `Pages` ，在右侧区域中，为 `Source` 选择 `GitHub Actions`。
@@ -120,14 +120,14 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
    - [node.js](https://nodejs.org/en/)
    - [yarn](https://yarnpkg.com/) 或者 [npm](https://www.npmjs.com/)
 
-2. 通过运行 `git clone https://github.com/ztjhz/BetterChatGPT.git` 克隆此[存储库](https://github.com/ztjhz/BetterChatGPT)。
+2. 通过运行 `git clone https://github.com/intellichain555/worldchatgpt.git` 克隆此[存储库](https://github.com/intellichain555/worldchatgpt)。
 3. 进入目录通过 `cd BetterChatGPT`
 4. 运行 `yarn` 或 `npm install`，具体取决于您是否安装了 yarn 或 npm。
 5. 运行 `yarn dev` 或 `npm run dev` 来启动应用程序。
 
 # ⭐️ 星星历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ztjhz/BetterChatGPT&type=Date)](https://github.com/ztjhz/BetterChatGPT/stargazers)
+[![Star History Chart](https://api.star-history.com/svg?repos=ztjhz/BetterChatGPT&type=Date)](https://github.com/intellichain555/worldchatgpt/stargazers)
 
 <h3 align="center">
     给 <b>Better ChatGPT</b> 一个星星 ⭐️ 可以让它更加锦上添花，让更多人受益匪浅。
@@ -137,7 +137,7 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 感谢所有贡献者！
 
-<a href="https://github.com/ztjhz/BetterChatGPT/graphs/contributors">
+<a href="https://github.com/intellichain555/worldchatgpt/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ztjhz/BetterChatGPT" />
 </a>
 
